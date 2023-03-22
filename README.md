@@ -1,4 +1,5 @@
-# item-based-recommendation
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--h03lU8An--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mih10uhu1464fx1kr0by.jpg" width="100%"/>
+
 # The history of dataset
 
 The "movie_lens_dataset" is a popular dataset in the field of recommender systems, containing information about movies and user ratings. It includes several files, but two of the main ones are "movie.csv" and "rating.csv".
